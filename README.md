@@ -7,6 +7,8 @@ Mithril serializer plugin for pretty-format
 ## Examples
 
 ```js
+const m = require('mithril');
+
 test('node with content', () => {
   const vnode = m('div', 'Hello');
 
@@ -18,7 +20,7 @@ test('node with content', () => {
 });
 ```
 
-Check our own [test cases](./mithril-serializer.test.js) for more examples.
+Check our own [test cases](https://github.com/DiogoDoreto/mithril-serializer/blob/master/mithril-serializer.test.js) for more examples.
 
 ## How to use
 

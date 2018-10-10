@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Mithril serializer plugin for pretty-format",
   "main": "mithril-serializer.js",
+  "repository": "DiogoDoreto/mithril-serializer",
   "scripts": {
     "test": "jest --coverage"
   },
