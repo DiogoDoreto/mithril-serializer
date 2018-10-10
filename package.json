@@ -1,0 +1,24 @@
+{
+  "name": "mithril-serializer",
+  "version": "0.1.0",
+  "description": "Mithril serializer plugin for pretty-format",
+  "main": "mithril-serializer.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "jest",
+    "jest snapshots",
+    "pretty-format"
+  ],
+  "author": "Diogo Doreto",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "mithril": "^1.1.6",
+    "prettier": "^1.14.3"
+  },
+  "dependencies": {
+    "pretty-format": "^23.6.0"
+  }
+}
